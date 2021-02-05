@@ -3,5 +3,5 @@
 # dependency суулгах
 pip install ./requirements.txt
 
-# ажилуулах
+# ажлуулах
 scrapy crawl news
