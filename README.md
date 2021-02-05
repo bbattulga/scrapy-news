@@ -1,7 +1,7 @@
 # Python Scrapy package ашиглаж мэдээний web -с мэдээлэл цуглуулах
 
 # dependency суулгах
-pip install ./requirements.txt
+pip install -r ./requirements.txt
 
 # ажлуулах
 scrapy crawl news
